@@ -20,14 +20,14 @@ The code implements a neural network that learns to classify input data into one
    cd [your_repository_name]
 Set up a Virtual Environment (Recommended):
 
-Bash
+
 
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt # See "Requirements" section below. Create requirements.txt file with necessary libraries.
 Open the Jupyter Notebook:
 
-Bash
+
 
 jupyter notebook
 Navigate to ANN implementation.ipynb and run the cells in order.
