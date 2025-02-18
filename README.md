@@ -16,8 +16,8 @@ The code implements a neural network that learns to classify input data into one
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[gunjangyl]/[your_repository_name].git  # Replace with your repo URL
-   cd [your_repository_name]
+   git clone [https://github.com/](https://github.com/)[gunjangyl]/[ANN].git  
+   cd [ANN]
 Set up a Virtual Environment 
 
 
