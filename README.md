@@ -16,21 +16,11 @@ The code implements a neural network that learns to classify input data into one
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[your_github_username]/[your_repository_name].git  # Replace with your repo URL
+   git clone [https://github.com/](https://github.com/)[gunjangyl]/[your_repository_name].git  # Replace with your repo URL
    cd [your_repository_name]
-Set up a Virtual Environment (Recommended):
+Set up a Virtual Environment 
 
 
-
-python3 -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-pip install -r requirements.txt # See "Requirements" section below. Create requirements.txt file with necessary libraries.
-Open the Jupyter Notebook:
-
-
-
-jupyter notebook
-Navigate to ANN implementation.ipynb and run the cells in order.
 
 Code Description
 The notebook contains the following key sections:
